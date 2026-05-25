@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local databases and student data
+data/attendance.db
+data/student_images/
+exports/
+logs/
+*.db
+*.log
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
